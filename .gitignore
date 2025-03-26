@@ -8,4 +8,7 @@
 # Introductory Problems/.cph/.wired_Algorithm.cpp_7fce719db5a6e8744061f32c1b1c1cf4.prob
 *.bin
 *.cph
+*.vscode
+.vscode\launch.json
+.vscode\tasks.json
 
